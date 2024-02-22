@@ -3,7 +3,7 @@ caderno de anotações e percurso de aprendizado na linguagem de programação p
 Irei seguir o guia de josenaldo.github.io/caderno-data-science , enquanto tento encontrar meu próprio caminho nessa jornada.
 
 Sumário
-Planos de estudo
+Planos de estudo;
 Formação Python - Fase 1
 Formação Python - Fase 2
 Data Science Fase 1 - Python para Data Science
